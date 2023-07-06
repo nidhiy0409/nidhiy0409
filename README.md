@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Software Developer](https://nidhiy0409.github.io/profile_image.jpg)
 
-[![Visitors](https://visitor-badge.com/badge?page_id=nidhiy0409.your_repository_name)](https://github.com/nidhiy0409/your_repository_name)
+[![Visitors](https://visitor-badge.com/badge?page_id=nidhiy0409.your_repository_name)](https://github.com/nidhiy0409/nidhiy0409)
 [![GitHub followers](https://img.shields.io/github/followers/nidhiy0409.svg?style=social&label=Follow)](https://github.com/nidhiy0409)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/nidhiy-deshpande)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:nidhiydeshpande@gmail.com)
