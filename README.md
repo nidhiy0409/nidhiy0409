@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 # Software Developer Profile
 
-![Software Developer](https://example.com/profile_image.jpg)
+![Software Developer](https://nidhiy0409.github.io/profile_image.jpg)
 
 [![Visitors](https://visitor-badge.com/badge?page_id=nidhiy0409.your_repository_name)](https://github.com/nidhiy0409/your_repository_name)
 [![GitHub followers](https://img.shields.io/github/followers/nidhiy0409.svg?style=social&label=Follow)](https://github.com/nidhiy0409)
@@ -29,7 +29,7 @@ Welcome to my software developer profile! I am a passionate and experienced soft
 
 ## 📊 Profile Readme Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&count_private=true&show_icons=true&theme=dark)](https://github.com/your_username)
+[![Nidhiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&count_private=true&show_icons=true&theme=dark)](https://github.com/your_username)
 
 ## 🔧 My Project
 
