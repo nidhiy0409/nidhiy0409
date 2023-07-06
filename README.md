@@ -50,12 +50,12 @@ grades
 detection of human faces. Implemented a cascade classifier-based approach, leveraging a pre-trained model to detect faces in real-time
 video streams
 - **Technologies used:** OpenCV, C++
-- **Link to project (if applicable):** https://github.com/nidhiy0409/FaceMaskAnalyzer
+- **Link to project:** https://github.com/nidhiy0409/FaceMaskAnalyzer
 
 ### Libra Manage:
 - **Description:**  Implemented user authentication and access control for secure access. Integrated database functionality using C++ libraries to store and retrieve book information, member details, and borrowing records.
 - **Technologies used:** OOP, C++
-- **Link to project (if applicable):** https://github.com/nidhiy0409/LibraManage
+- **Link to project:** https://github.com/nidhiy0409/LibraManage
 
 ## 👨‍💻 All Dev Stats
 
