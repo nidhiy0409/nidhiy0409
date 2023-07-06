@@ -47,7 +47,7 @@ Welcome to my software developer profile! I am a passionate and experienced soft
 
 ![Nidhiy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiy0409&layout=compact&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiy0409)](https://github.com/nidhiy0409/github-readme-stats)
+
 
 ## 🚀 Achievements and Recognition
 
