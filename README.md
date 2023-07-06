@@ -69,4 +69,11 @@ Welcome to my software developer profile! I am a passionate and experienced soft
 - **LinkedIn:** [https://www.linkedin.com/in/nidhiy-deshpande/]
 - **GitHub:** [https://github.com/nidhiy0409]
 
+  <a href="https://github.com/nidhiy0409/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nidhiy0409" />
+</a>
+<a href="https://github.com/nidhiy0409/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhiy0409&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project. I look forward to connecting with you!
