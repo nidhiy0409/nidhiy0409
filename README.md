@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 ![Software Developer](https://example.com/profile_image.jpg)
 
-[![Visitors](https://visitor-badge.com/badge?page_id=your_username.your_repository_name)](https://github.com/your_username/your_repository_name)
-[![GitHub followers](https://img.shields.io/github/followers/your_username.svg?style=social&label=Follow)](https://github.com/your_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/your_profile)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:your_email@example.com)
+[![Visitors](https://visitor-badge.com/badge?page_id=nidhiy0409.your_repository_name)](https://github.com/nidhiy0409/your_repository_name)
+[![GitHub followers](https://img.shields.io/github/followers/nidhiy0409.svg?style=social&label=Follow)](https://github.com/nidhiy0409)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/nidhiy-deshpande)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:nidhiydeshpande@gmail.com)
 
 Welcome to my software developer profile! I am a passionate and experienced software developer with expertise in the following technologies:
 
