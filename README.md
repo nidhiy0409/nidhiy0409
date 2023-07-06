@@ -29,7 +29,7 @@ Welcome to my software developer profile! I am a passionate and experienced soft
 
 ## 📊 Profile Readme Stats
 
-[![Nidhiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhiy0409&count_private=true&show_icons=true&theme=dark)](https://github.com/nidhiy0409)
+[![Nidhiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhiy0409&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/nidhiy0409)
 
 ## 🔧 My Project
 
@@ -45,7 +45,7 @@ Welcome to my software developer profile! I am a passionate and experienced soft
 
 ## 👨‍💻 All Dev Stats
 
-![Nidhiy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiy0409&layout=compact&theme=gruvbox)
+![Nidhiy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiy0409&layout=compact&theme=dark)
 
 
 ## 🚀 Achievements and Recognition
