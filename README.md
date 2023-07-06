@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 # Software Developer Profile
 
-![Software Developer](https://nidhiy0409.github.io/profile_image.jpg)
+![Software Developer](https://nidhiy0409.github.io/profile_img.jpg)
 
 [![Visitors](https://visitor-badge.com/badge?page_id=nidhiy0409.your_repository_name)](https://github.com/nidhiy0409/nidhiy0409)
 [![GitHub followers](https://img.shields.io/github/followers/nidhiy0409.svg?style=social&label=Follow)](https://github.com/nidhiy0409)
