@@ -15,7 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 [About Me](https://nidhiy0409.github.io/profile_img.jpg) 
 
-[![Visitors](https://visitor-badge.com/badge?page_id=nidhiy0409.nidhiy0409)](https://github.com/nidhiy0409/nidhiy0409)
+![visitor badge](https://visitor-badge.imlete.cn/?id=github.nidhiy0409.visitor-badge&labelColor=f00)
+
+![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=nidhiy0409.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
+
 [![GitHub followers](https://img.shields.io/github/followers/nidhiy0409.svg?style=social&label=Follow)](https://github.com/nidhiy0409)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/nidhiy-deshpande)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:nidhiydeshpande@gmail.com)
@@ -29,9 +33,10 @@ Welcome to my software developer profile! I am a passionate and experienced soft
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-- **Frameworks and Technologies:** AWS, Docker, Kubernetes, Django, VSCode, VSCode Community, Tensorflow, Pytorch
-- **Database Management:** MySQL, SQL
-- **Version Control:** Git, GitHub
+
+- **Frameworks and Technologies:** ![AWS](https://img.shields.io/badge/aws-%23232F3E) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5) ![Docker](https://img.shields.io/badge/docker-%232496ED) ![Django](https://img.shields.io/badge/django-%23092E20) ![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC) ![VSCode Community](https://img.shields.io/badge/VS_Community-%23007ACC) ![Tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00) ![Pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C)
+- **Database Management:** ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+- **Version Control:** ![SQL](https://img.shields.io/badge/-Git-000?&logo=Git) ![SQL](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 ## 📊 Profile Readme Stats
 
@@ -62,16 +67,12 @@ video streams
 ![Nidhiy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiy0409&layout=compact&theme=dark)
 
 
-## 🚀 Achievements and Recognition
-
-- List any notable achievements or recognition you have received in your career.
 
 ## 🎓 Education
 
 ### Vishwakarma Institute of Information Technology, Information Technology
 **Duration:** August 2020 - May 2024
 
-- Briefly describe your academic experience and any notable achievements.
 
 ### Online Courses and Certifications
 - Coding Ninjas : [Introduction to C++](https://certificate.codingninjas.com/view/41d573c6f1b61263)
